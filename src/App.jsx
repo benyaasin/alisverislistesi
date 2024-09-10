@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState, useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
@@ -16,7 +17,7 @@ const categories = [
   "Kırtasiye",
   "Oyuncak",
   "Manav",
-  "Temizlik Ürünleri",
+  "Temizlik Ürünler",
 ];
 
 const jsConfetti = new JSConfetti();
